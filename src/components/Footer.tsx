@@ -14,7 +14,7 @@ export function Footer() {
                 className="font-heading text-2xl tracking-tight text-white font-medium"
                 style={{ fontFamily: 'var(--font-heading)' }}
               >
-                Mainframe®
+                CAUQUEIA®
               </span>
               <span className="text-2xl text-white">✳︎</span>
             </a>
@@ -87,7 +87,7 @@ export function Footer() {
 
         {/* Bottom copyright */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-stone-500 gap-4">
-          <p>© {new Date().getFullYear()} Mainframe®. Todos los derechos reservados.</p>
+          <p>© {new Date().getFullYear()} CAUQUEIA®. Todos los derechos reservados.</p>
           <p>Automatización Inteligente para Negocios en Cauquenes, Chile.</p>
         </div>
       </div>
