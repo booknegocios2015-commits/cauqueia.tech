@@ -12,7 +12,7 @@ export function HeroSection({ onShowToast, onNavigate }: HeroSectionProps) {
 
   // Core typewriter prompt
   const typewriterText =
-    'Automatización Inteligente para Empresas Medianas y en Crecimiento con IA';
+    'Automatización y Optimización para Empresas Medianas y en Crecimiento con IA';
 
   const { displayed, done } = useTypewriter({
     text: typewriterText,
